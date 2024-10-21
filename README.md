@@ -21,6 +21,9 @@ I'm currently working on Node.js, Bun, Express.js, MongoDB, Redis, Eclipse Mosqu
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ATIQ-SHAIKH&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### 🪪 Badges
+[![An image of @atiqshaikh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/atiqshaikh)](https://holopin.io/@atiqshaikh)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=ATIQ-SHAIKH&icon=0&color=0)](https://visitcount.itsvg.in)
 
