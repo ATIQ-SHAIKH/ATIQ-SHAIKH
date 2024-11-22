@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Node.js, Bun, Express.js, MongoDB, Redis, Eclipse Mosquitto and Firebase and I'm currently learning LangChain framework for a project.<br>
+I'm currently working on Node.js, Bun, Express.js, MongoDB, Redis, Eclipse Mosquitto and Firebase and I'm currently learning NextJS framework for a project.<br>
 
 
 ## 🌐 Socials:
